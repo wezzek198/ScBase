@@ -1,0 +1,164 @@
+{
+  "Int1xKrashed": {
+    "username": "Int1xKrashed",
+    "user_id": "Int1xKrashed",
+    "reason": "Скам на деньги 1",
+    "country": "Россия",
+    "scam_chance": 50,
+    "proofs": [],
+    "added_date": "2026-01-16 13:11:26",
+    "added_by": 1307172745,
+    "added_from_chat": -1003660247060,
+    "reports": 1,
+    "status": "active"
+  },
+  "5553": {
+    "username": "5553",
+    "user_id": "5553",
+    "reason": "Обманул на деньги",
+    "country": null,
+    "scam_chance": 100,
+    "proofs": [],
+    "added_date": "2026-01-16 13:40:06",
+    "added_by": 1307172745,
+    "added_from_chat": -1003660247060,
+    "reports": 1,
+    "status": "active"
+  },
+  "Stepa5553": {
+    "username": "Stepa5553",
+    "user_id": "Stepa5553",
+    "reason": "обман на деньги",
+    "country": null,
+    "scam_chance": 100,
+    "proofs": [],
+    "added_date": "2026-01-16 14:34:00",
+    "added_by": 1307172745,
+    "added_from_chat": -1003660247060,
+    "reports": 1,
+    "status": "removed",
+    "removed_date": "2026-01-16 14:51:56"
+  },
+  "stepa5553": {
+    "username": "stepa5553",
+    "user_id": "stepa5553",
+    "reasons": [
+      "Обмаен"
+    ],
+    "country": null,
+    "scam_chance": 100,
+    "proofs": [
+      "https://t.me/wzkbScamBaseChat/249"
+    ],
+    "added_date": "2026-01-17 16:31:48",
+    "added_by": 7294311247,
+    "added_from_chat": -1003660247060,
+    "reports": 1,
+    "status": "removed",
+    "removed_date": "2026-01-17 16:32:28"
+  },
+  "step5553": {
+    "username": "step5553",
+    "user_id": "step5553",
+    "reason": "обман на звезды",
+    "country": "🇷🇺 Россия",
+    "scam_chance": 100,
+    "proofs": [],
+    "added_date": "2026-01-16 16:29:52",
+    "added_by": 1307172745,
+    "added_from_chat": -1003660247060,
+    "reports": 1,
+    "status": "removed",
+    "removed_date": "2026-01-16 16:32:51"
+  },
+  "int1xxxz": {
+    "username": "int1xxxz",
+    "user_id": "int1xxxz",
+    "reasons": [
+      "Обман"
+    ],
+    "country": null,
+    "scam_chance": 100,
+    "proofs": [
+      "https://t.me/c/1003660247060/140"
+    ],
+    "added_date": "2026-01-16 18:22:52",
+    "added_by": 1307172745,
+    "added_from_chat": -1003660247060,
+    "reports": 1,
+    "status": "active"
+  },
+  "1741563641": {
+    "username": "sewixkrd",
+    "user_id": "1741563641",
+    "reasons": [
+      "Обман на .",
+      "Обман на деньги"
+    ],
+    "country": null,
+    "scam_chance": 100,
+    "proofs": [
+      "https://t.me/wzkbScamBaseChat/43",
+      "https://t.me/wzkbScamBaseChat/51"
+    ],
+    "added_date": "2026-01-16 22:27:56",
+    "added_by": 1307172745,
+    "added_from_chat": 1307172745,
+    "reports": 2,
+    "status": "removed",
+    "removed_date": "2026-01-16 22:28:41"
+  },
+  "7384715060": {
+    "username": "sepukkuu",
+    "user_id": "7384715060",
+    "reasons": [
+      "Обманщик"
+    ],
+    "country": null,
+    "scam_chance": 100,
+    "proofs": [
+      "https://t.me/wzkbScamBaseChat/180"
+    ],
+    "added_date": "2026-01-16 22:28:59",
+    "added_by": 1307172745,
+    "added_from_chat": -1003660247060,
+    "reports": 1,
+    "status": "removed",
+    "removed_date": "2026-01-16 22:29:23"
+  },
+  "7220504303": {
+    "username": "XK7LC1",
+    "user_id": "7220504303",
+    "reasons": [
+      "алалл"
+    ],
+    "country": null,
+    "scam_chance": 100,
+    "proofs": [
+      "https://t.me/wzkbScamBaseChat/201"
+    ],
+    "added_date": "2026-01-16 22:41:28",
+    "added_by": 1307172745,
+    "added_from_chat": -1003660247060,
+    "reports": 1,
+    "status": "removed",
+    "removed_date": "2026-01-16 22:42:28"
+  },
+  "6083270900": {
+    "username": "step5553",
+    "user_id": "6083270900",
+    "reasons": [
+      "Мошенник негодяй"
+    ],
+    "country": "🇷🇺 Россия",
+    "scam_chance": 100,
+    "proofs": [
+      "https://t.me/wzkbScamBaseChat/271"
+    ],
+    "added_date": "2026-01-17 20:56:10",
+    "added_by": 7294311247,
+    "added_from_chat": -1003660247060,
+    "reports": 1,
+    "status": "active"
+  }
+}

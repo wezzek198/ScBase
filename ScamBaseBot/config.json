@@ -1,0 +1,25 @@
+{
+  "owner_id": 1307172745,
+  "special_admins": [
+    8064767053,
+    7294311247
+  ],
+  "admins": [
+    7466752433
+  ],
+  "admin_chat_id": -1003660247060,
+  "admin_chat_username": "wzkbScamBaseChat",
+  "required_channel_id": -1001902673291,
+  "required_channel_username": "@wzkbAntiScam",
+  "images": {
+    "scammer_found": "C:\\Users\\AORUS\\Desktop\\ScamBaseBot\\bot_images\\scammer_found.jpg",
+    "user_clean": "C:\\Users\\AORUS\\Desktop\\ScamBaseBot\\bot_images\\user_clean.jpg",
+    "warning": "bot_images\\warning.jpg",
+    "admin": "C:\\Users\\AORUS\\Desktop\\ScamBaseBot\\bot_images\\admin.jpg"
+  },
+  "restrict_add_to_admin_chat": true,
+  "check_subscription": true,
+  "chat_night_mode": true,
+  "day_message": "☀️ Админ-чат открыт! Доброе утро!",
+  "night_message": "🌙 Админ-чат закрыт на ночь. Спим до утра!"
+}
